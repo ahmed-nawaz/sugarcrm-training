@@ -277,10 +277,6 @@ $viewdefs['Calls']['base']['view']['record'] = array(
                     'span' => 6,
                     'rows' => 3,
                 ),
-                array(
-                    'name' => 'calls_notes_1_name',
-                    'span' => 6,
-                ),
                 'parent_name',
                 array(
                     'name' => 'invitees',

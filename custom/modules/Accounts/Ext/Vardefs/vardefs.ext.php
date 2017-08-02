@@ -63,3 +63,11 @@ $dictionary["Account"]["fields"]["accounts_prospects_1"] = array (
 );
 
 ?>
+<?php
+// Merged from custom/Extension/modules/Accounts/Ext/Vardefs/new_vardef.php
+
+
+$dictionary['Account']['fields']['name']['required'] = false;
+
+
+?>

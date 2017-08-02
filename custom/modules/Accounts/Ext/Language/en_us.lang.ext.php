@@ -19,3 +19,11 @@ $mod_strings['LBL_ACCOUNTS_PROSPECTS_1_FROM_ACCOUNTS_TITLE'] = 'Accounts';
 $mod_strings['LBL_ACCOUNTS_PROSPECTS_1_FROM_PROSPECTS_TITLE'] = 'Targets';
 
 ?>
+<?php
+// Merged from custom/Extension/modules/Accounts/Ext/Language/en_us.new_file.php
+
+
+  $mod_strings['LBL_EXAMPLE_MODULE_LABEL'] = 'Example Module Label';
+
+
+?>

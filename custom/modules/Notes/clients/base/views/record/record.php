@@ -147,10 +147,6 @@ $viewdefs['Notes']['base']['view']['record'] = array(
                     'name' => 'tag',
                     'span' => 6,
                 ),
-                array(
-                    'name' => 'calls_notes_1_name',
-                    'span' => 6,
-                ),
             ),
         ),
         array(

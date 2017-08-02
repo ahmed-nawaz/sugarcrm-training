@@ -75,17 +75,5 @@ $dictionary['Lead']['fields']['related_product'] = array(
     'vname'         => 'LBL_SUBSCRIBERS',
     );
 
-?>
-/*
-
-'latest_document_revision_link' =>
-array(
-    'name' => 'latest_document_revision_link',
-    'type' => 'link',
-    'relationship' => 'latest_document_revision',
-    'source' => 'non-db',
-    'vname' => 'LBL_LATEST_REVISION',
-),
-*/
 
 ?>

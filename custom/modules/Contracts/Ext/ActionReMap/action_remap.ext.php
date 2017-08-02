@@ -5,7 +5,7 @@
 // Merged from custom/Extension/modules/Contracts/Ext/ActionReMap/example.php
 
 
-$action_remap['new_action_n'] = 'DetailView';
+$action_remap['new_action_n'] = 'detailview';
 
 
 ?>
