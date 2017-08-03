@@ -92,3 +92,17 @@ $hook_array['after_entry_point'][] = array(1, 'smm', 'include/SugarMetric/HookMa
 $hook_array['server_round_trip'][] = array(1, 'smm', 'include/SugarMetric/HookManager.php', 'SugarMetric_HookManager', 'serverRoundTrip');
 
 ?>
+<?php
+// Merged from custom/Extension/application/Ext/LogicHooks/new_hook.php
+
+
+$hook_array['before_save'][] = array(
+  1,
+  'Custom Logic',
+  'custom/application_hook.php',
+  'ApplicationHookConsumer',
+  'before_method', 
+);
+
+
+?>

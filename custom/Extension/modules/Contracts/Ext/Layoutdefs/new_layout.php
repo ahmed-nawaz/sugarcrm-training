@@ -1,13 +1,13 @@
 <?php
 
-    $layout_defs["Contracts"]["subpanel_setup"]['<subpanel key>'] = array (
+    $layout_defs["Contracts"]["subpanel_setup"]['contract_notes'] = array (
         'order' => 100,
-        'module' => 'Contracts',
+        'module' => 'Notes',
         'subpanel_name' => 'default',
         'sort_order' => 'asc',
         'sort_by' => 'id',
         'title_key' => 'LBL_SUBPANEL_TITLE',
-        'get_subpanel_data' => '<subpanel key>',
+        'get_subpanel_data' => 'notes',
         'top_buttons' => array (
             array (
               'widget_class' => 'SubPanelTopButtonQuickCreate',

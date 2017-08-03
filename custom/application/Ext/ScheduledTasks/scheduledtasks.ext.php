@@ -2,15 +2,17 @@
 // WARNING: The contents of this file are auto-generated.
 ?>
 <?php
-// Merged from custom/Extension/application/Ext/ScheduledTasks/task.php
+// Merged from custom/Extension/application/Ext/ScheduledTasks/new_job.php
 
 
-$job_strings[] = 'exampleJob';
+$job_strings[] = 'newJob';
 
-function exampleJob
+function newJob()
 {
-  return true;
-}
+    //logic here
 
+    //return true for completed
+    return true;
+}
 
 ?>
